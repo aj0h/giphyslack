@@ -28,4 +28,4 @@ Enjoy with your team.
 
 ## giphyslack in action
 
-<iframe name='quickcast' src='http://quick.as/embed/6jaktwk5' scrolling='no' frameborder='0' width='100%' allowfullscreen></iframe><script src='http://quick.as/embed/script/1.65'></script>
+![](http://quick.as/embed/6jaktwk5)
